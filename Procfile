@@ -1,1 +1,1 @@
-web: gunicron rent:app
+web: gunicorn rent:app
