@@ -1,1 +1,1 @@
-web:gunicron wsgi.py
+web: gunicron rent:app
