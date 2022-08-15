@@ -1,1 +1,1 @@
-web:gunicron app:app --log-file 
+web:gunicron wsgi:app --log-file 
